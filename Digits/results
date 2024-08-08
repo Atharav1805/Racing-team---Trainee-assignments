@@ -1,0 +1,9 @@
+Accuracy: 0.988
+Precision: 0.9881155808337123
+Recall: 0.9879397450765394
+F1 Score: 0.9879975142017281
+
+Training peak (epoch 10): 1. accuracy: 0.9986 
+			  2. loss: 0.0047 
+			  3. val_accuracy: 0.9895
+			  4. val_loss: 0.0396
