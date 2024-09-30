@@ -2,6 +2,9 @@
 
 This repository contains assignments done during my tenure as a Trainee in the Driverless division of IIT Bombay Racing. 
 
+Here is the link to my other repo which has the ros2 simulations of single inverted and double inverted pendulums: 
+!(https://github.com/Atharav1805/Inverted-pendulum-problems-Atharav.git)
+
 
 Below are the visual representations of the ROS2 node created for synchronizing data from ZED camera (left and right)
 
