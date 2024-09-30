@@ -8,6 +8,7 @@ Here is the link to my other repo which has the ros2 simulations of single inver
 ### https://github.com/Atharav1805/Inverted-pendulum-problems-Atharav.git
 
 
+## ZED Camera Synchronization
 Below are the visual representations of the ROS2 node created for synchronizing data from ZED camera (left and right)
 
 ## ZED Camera Auto Synchronization
